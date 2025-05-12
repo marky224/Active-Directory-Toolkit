@@ -1,0 +1,4 @@
+Write scripts for a modular, command-line toolkit for Windows-based Active Directory (AD) Domain Controllers, designed to help administrators implement best practices, automate common tasks, and generate audit and health reports in JSON format.
+
+Requirements:
+- Separate Users and Computers
